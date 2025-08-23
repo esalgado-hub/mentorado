@@ -1,0 +1,38 @@
+{
+    "dashboard": {
+        "diagnostico_1_sessao": "",
+        "diagnostico_2_sessao": "",
+        "pontos_fortes": [],
+        "pontos_melhoria": [],
+        "metas": {
+            "1_ano": {"descricao": "", "progresso": 0},
+            "5_anos": {"descricao": "", "progresso": 0},
+            "10_anos": {"descricao": "", "progresso": 0}
+        }
+    },
+    "tarefas": {
+        "mentor_indicadas": [
+            {"descricao": "Revisar todas as faturas do cartão de crédito do último mês.", "concluida": false, "observacoes": ""},
+            {"descricao": "Listar todas as assinaturas recorrentes.", "concluida": false, "observacoes": ""},
+            {"descricao": "Organizar planilha de gastos mensais.", "concluida": false, "observacoes": ""}
+        ],
+        "criadas_pelo_mentorado": [
+            {"descricao": "Ligar para o banco para renegociar a anuidade do cartão.", "concluida": false},
+            {"descricao": "Pesquisar opções de conta digital sem tarifas.", "concluida": false},
+            {"descricao": "Cancelar assinatura do streaming que não uso.", "concluida": false}
+        ]
+    },
+    "ferramentas": {
+        "calculadora_50_30_20": {
+            "renda_mensal": 0,
+            "gastos_essenciais": 0,
+            "gastos_pessoais": 0,
+            "investimentos": 0
+        },
+        "perfil_investidor": {
+            "respostas": [],
+            "resultado": ""
+        }
+    }
+}
+
