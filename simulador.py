@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-menu = st.sidebar.radio(
+menu = st.sidebar.selectbox(
     "Escolha uma funcionalidade",
     ("Simulador de Juros Compostos", "Calculadora")
 )
